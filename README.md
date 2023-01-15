@@ -1,4 +1,4 @@
-KingDiamond
+KingDiamond (奪戰國王的寶石)
 ===========
 
 A game initiated and designed by my son.
